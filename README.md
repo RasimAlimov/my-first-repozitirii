@@ -2,4 +2,5 @@
 
 Добавил текст на локальный репозиторий
 
-Dobavil tekst cherez brauzer
+Dobavil tekst cherez brauzer.Add english text in brauser
+
