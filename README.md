@@ -4,3 +4,7 @@
 
 Dobavil tekst cherez brauzer.Add english text in brauser
 
+
+## Картинки
+Это скрин команд
+![скрин](Git.png)
